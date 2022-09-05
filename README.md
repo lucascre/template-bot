@@ -1,6 +1,5 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/attachments/1014029413198860348/1015665011550601306/Music.gif" width="30px"> Sarinhaaa 𝑥ÐK <img src="https://cdn.discordapp.com/attachments/1014029413198860348/1015665011550601306/Music.gif" width="30px"></h1>
+<h1 align="center"> Template BOT v-14 </h1>
 
-<h3 align="center"><img align="center" src="https://cdn.discordapp.com/avatars/1015343553125290036/50bff01cf991813592effb7d9c1fc162.webp?size=2048" width="100px"></h4>
 
 ## 🔗 | Sobre
 

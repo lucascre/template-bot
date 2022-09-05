@@ -17,7 +17,7 @@ Para usar o bot precisa ter alguns programas, como :
 Abra seu terminal, digite: 
 
 ```sh
-git clone git@github.com:lucascre/template-bot.git
+git clone https://github.com/lucascre/template-bot
 ```
 entrar na pasta.
 

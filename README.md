@@ -37,6 +37,6 @@ Colocar seu token no `config.json`
 
 ```json
 {
-    "token":"MTAxNDAyNjE0MjcxNTQ3ODAyNw.G9-fmn.pPkux6IQlQtv9yDiHv1g3hZOklndFSM8nF-b3w"
+    "token":""
 }
 ```

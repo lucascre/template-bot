@@ -28,3 +28,11 @@ client.on('interactionCreate', (interaction) => {
 client.on('ready', () => {
   console.log(`🔥 Estou online em ${client.user.username}!`)
 })
+
+
+client.slashCommands = new Discord.Collection()
+
+require('./handler')(client)
+
+client.login(config.token)
+

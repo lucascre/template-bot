@@ -6,19 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Eteraswen",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.3.0",
     "fs": "^0.0.1-security"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lucascre/template-bot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/lucascre/template-bot/issues"
-  },
-  "homepage": "https://github.com/lucascre/template-bot#readme"
+  }
 }
+
